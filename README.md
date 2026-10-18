@@ -1,6 +1,6 @@
-# TP2 HDFS : Online Retail II sur un cluster Hadoop local
+# HDFS : Online Retail II sur un cluster Hadoop local
 
-TP du module **Big Data & Hadoop** (École d'ingénieurs ISM, L3-IA).
+ **Big Data & Hadoop** (École d'ingénieurs ISM, L3-IA).
 Objectif : démarrer un HDFS local, y déposer un fichier volumineux, observer son découpage en blocs et tester la tolérance aux pannes.
 
 **Auteur :** Papa Arona SENE, L3-IA
